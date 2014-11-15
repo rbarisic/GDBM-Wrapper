@@ -1,2 +1,4 @@
 source 'https://rubygems.org'
-require 'gdbm'
+
+gem 'gdbm'
+gem 'colorize', '~> 0.7.3'
